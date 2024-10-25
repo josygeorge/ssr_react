@@ -1,0 +1,29 @@
+{
+  "name": "ssr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josygeorge/ssr_react.git"
+  },
+  "keywords": [
+    "ssr"
+  ],
+  "author": "JG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josygeorge/ssr_react/issues"
+  },
+  "homepage": "https://github.com/josygeorge/ssr_react#readme",
+  "dependencies": {
+    "next": "^15.0.1",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
